@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color:#EAEAEA;
+}
+
+.header{
+    font-size: 35px;
+    text-align: left;
+    max-width:50%;
+    margin: auto;
+    font-family: 'Lobster', cursive;
+}
+
+.contenedor{
+    max-width:50%;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #FFFFFF;
+    margin-bottom: 30px;
+}
+
+.titulo{
+    height: 10%;
+    font-family: 'Acme', sans-serif;
+    font-size: 21px;
+    padding: 10px;
+}
+
+.foto{
+    width: 100%;
+}
+
+img{
+    max-width: 100%;
+    max-height: 500px;
+    display: block;
+    margin: auto;
+}
+
+.descripcion{
+    height: 20%;
+    font-family: 'Rajdhani', sans-serif;
+    padding: 10px;
+}
+
+.pagina{
+    font-family:initial;
+    float: right;
+    color:#BCBEC1;
+    padding-right: 5px;
+}
+
